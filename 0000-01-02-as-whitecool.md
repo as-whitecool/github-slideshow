@@ -1,1 +1,6 @@
-_posts / 0000-01-02-as-whitecool.md
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+dddd
+Use the left arrow to go back!
